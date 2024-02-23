@@ -54,6 +54,9 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+    buildFeatures {
+        dataBinding = true
+    }
 }
 
 dependencies {
@@ -88,4 +91,8 @@ dependencies {
     // Glide
     implementation ("com.github.bumptech.glide:glide:4.12.0")
     ksp ("com.github.bumptech.glide:compiler:4.12.0")
+
+
+//    Gradle
+    implementation ("androidx.databinding:databinding-compiler:7.2.3")
 }
