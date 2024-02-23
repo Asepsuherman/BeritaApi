@@ -22,14 +22,6 @@ import id.utdi.asepsuherman.beritaapi.util.Constants.Companion.SEARCH_NEWS_TIME_
 import id.utdi.asepsuherman.beritaapi.util.Resource
 import id.utdi.asepsuherman.ui.NewsActivity
 import id.utdi.asepsuherman.ui.NewsViewModel
-//import com.kotlin.newsapp.R
-//import com.kotlin.newsapp.adapters.NewsAdapter
-//import com.kotlin.newsapp.databinding.FragmentSearchBinding
-//import com.kotlin.newsapp.ui.NewsActivity
-//import com.kotlin.newsapp.ui.NewsViewModel
-//import com.kotlin.newsapp.util.Constants
-//import com.kotlin.newsapp.util.Constants.Companion.SEARCH_NEWS_TIME_DELAY
-//import com.kotlin.newsapp.util.Resource
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.delay

@@ -10,11 +10,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import com.bumptech.glide.Glide
 import com.google.android.material.snackbar.Snackbar
-//import com.kotlin.newsapp.R
-import com.kotlin.newsapp.databinding.FragmentArticleBinding
-//import com.kotlin.newsapp.models.Article
-//import com.kotlin.newsapp.ui.NewsActivity
-//import com.kotlin.newsapp.ui.NewsViewModel
+import id.utdi.asepsuherman.beritaapi.databinding.FragmentArticleBinding
 import id.utdi.asepsuherman.beritaapi.R
 import id.utdi.asepsuherman.beritaapi.model.Article
 import id.utdi.asepsuherman.ui.NewsActivity

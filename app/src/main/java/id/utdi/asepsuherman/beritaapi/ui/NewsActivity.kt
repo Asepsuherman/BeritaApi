@@ -5,9 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
-//import com.kotlin.newsapp.databinding.ActivityNewsBinding
-//import com.kotlin.newsapp.repository.remote.NewsRemoteRepository
-//import com.kotlin.newsapp.ui.NewsViewModelProviderFactory
 import id.utdi.asepsuherman.beritaapi.R
 import id.utdi.asepsuherman.beritaapi.db.ArticleDatabase
 import id.utdi.asepsuherman.beritaapi.repository.local.NewsLocalRepository
